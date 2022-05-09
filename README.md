@@ -1,2 +1,2 @@
 # practiceData
-## 이미지 및 데이터 기타 사항 넣는 Repository
+## 이미지 및 데이터 및 기타 소스 넣는 Repository
